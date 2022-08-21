@@ -15,5 +15,4 @@ Image
    - hit the provided api and read the data from it using fetch method and create 20 object  from the retrieve data then push them to an array 
    - loop through the array using map and create a card for each object to render in the main 
 
-
-
+https://turkyeh.github.io/Digimon-api/
